@@ -4,4 +4,4 @@ telefone = int(input("Seu telefone:"))
 
 print("Olá, {}".format(nome))
 print("Dados salvos com sucesso!")
-print("Entraremos em contato pelo numero {} para confirmar o agendamento".format(telefone))
+print("Entraremos em contato pelo numero {} para confirmar o agendamento da visita em seu endereço.".format(telefone))
